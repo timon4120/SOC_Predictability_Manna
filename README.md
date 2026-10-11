@@ -1,6 +1,7 @@
-### <center>Beyond global density in a stochastic sandpile: the role of spatial signatures in the predictability of extremes</center>
-<center>K.P. Orzechowski, J. Sienkiewicz & P. Fronczak</center> <br>
-<center>Overview</center>
+<p align = "center" style="font-size:200%;">
+<b>Beyond global density in a stochastic sandpile: the role of spatial signatures in the predictability of extremes</b></p>
+<p align = "center">K.P. Orzechowski, J. Sienkiewicz & P. Fronczak</p>
+<p align = "center">Overview</p>
 
 ---
 
